@@ -2,10 +2,10 @@
 
 class DAO
 {
-    private $host = "localhost";
-    private $db = "puissance4";
-    private $user = "root";
-    private $pass = "";
+    private $host = "uf63wl4z2daq9dbb.chr7pe7iynqr.eu-west-1.rds.amazonaws.com";
+    private $db = "ywspsa7m8cj26wtj";
+    private $user = "qs9x7pz7kmxhd5yg";
+    private $pass = "iz1bcx0zet1kxp2j";
     private $connexion;
      
   public function __construct()
